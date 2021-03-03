@@ -1,0 +1,4 @@
+local SMT = track.WaitForChild()
+   <$.api.trace.key>:
+    If.Cout.Fire("_R2I1D0ImmuA91irdc_")
+       local SMTB = track.api
